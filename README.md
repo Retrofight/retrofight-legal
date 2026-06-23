@@ -8,13 +8,15 @@ Users are solely responsible for ensuring that any content used with RetroFight 
 
 ## Documents
 
-- [Legal Notice](LEGAL_NOTICE.md): general legal position, project independence, third-party intellectual property notice, and user responsibility.
-- [Terms of Use](TERMS_OF_USE.md): terms that apply when downloading, installing, accessing, or using RetroFight.
-- [First Run Disclaimer](FIRST_RUN_DISCLAIMER.md): short notice intended to be shown to users before first use.
-- [Download Disclaimer](DOWNLOAD_DISCLAIMER.md): concise notice for download pages and release flows.
-- [Third-Party Content Notice](THIRD_PARTY_CONTENT.md): explains the use of titles, screenshots, artwork, metadata, thumbnails, and other descriptive materials.
-- [Copyright Policy](COPYRIGHT_POLICY.md): reporting procedure for intellectual property concerns.
-- [Legal FAQ](FAQ_LEGAL.md): short answers to common legal questions about ROMs, BIOS files, games, piracy, metadata, and affiliation.
+Canonical public repository: [retrofight-legal](https://github.com/Retrofight/retrofight-legal).
+
+- [Legal Notice](https://github.com/Retrofight/retrofight-legal/blob/main/LEGAL_NOTICE.md): general legal position, project independence, third-party intellectual property notice, and user responsibility.
+- [Terms of Use](https://github.com/Retrofight/retrofight-legal/blob/main/TERMS_OF_USE.md): terms that apply when downloading, installing, accessing, or using RetroFight.
+- [First Run Disclaimer](https://github.com/Retrofight/retrofight-legal/blob/main/FIRST_RUN_DISCLAIMER.md): short notice intended to be shown to users before first use.
+- [Download Disclaimer](https://github.com/Retrofight/retrofight-legal/blob/main/DOWNLOAD_DISCLAIMER.md): concise notice for download pages and release flows.
+- [Third-Party Content Notice](https://github.com/Retrofight/retrofight-legal/blob/main/THIRD_PARTY_CONTENT.md): explains the use of titles, screenshots, artwork, metadata, thumbnails, and other descriptive materials.
+- [Copyright Policy](https://github.com/Retrofight/retrofight-legal/blob/main/COPYRIGHT_POLICY.md): reporting procedure for intellectual property concerns.
+- [Legal FAQ](https://github.com/Retrofight/retrofight-legal/blob/main/FAQ_LEGAL.md): short answers to common legal questions about ROMs, BIOS files, games, piracy, metadata, and affiliation.
 
 ## Key Points
 
